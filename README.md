@@ -20,7 +20,7 @@ This project aims to predict **heart disease** using machine learning models tra
 
 ## 📂 Project Structure
 ```
-/Heart-Disease-Prediction
+/HeartDiseasePredictionML
 │── Heart_Disease.ipynb   # Main File (Jupyter Notebook / Google Collab file with full implementation)
 │── Presentation - Heart Disease.pdf  # Research presentation
 │── dataset/   
